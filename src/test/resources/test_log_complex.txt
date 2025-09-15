@@ -1,0 +1,2 @@
+2025-04-29T13:00:00Z, user111, purchase, {"item_id": "prod123", "price": "499.99", "currency": "USD"}
+2025-04-29T13:05:15Z, user222, view_item, {"item_id": "prod456", "duration": 45, "device": "tablet"}

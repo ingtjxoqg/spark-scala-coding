@@ -1,0 +1,3 @@
+101, Awesome Gadget, A truly awesome gadget, 29.99, Electronics
+102, Super Widget, The ultimate widget, 19.99, Home Goods
+103, Fancy Thingamajig, A very fancy thingamajig, 99.99, Luxury

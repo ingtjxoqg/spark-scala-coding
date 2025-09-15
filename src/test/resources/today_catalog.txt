@@ -1,0 +1,3 @@
+101, Awesome Gadget, Now even more awesome!, 34.99, Electronics
+103, Fancy Thingamajig, A very fancy thingamajig, 99.99, Luxury
+104, Basic Item, Just a basic item, 5.99, Essentials
