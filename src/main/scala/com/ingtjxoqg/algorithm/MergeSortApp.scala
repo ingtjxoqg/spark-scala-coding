@@ -55,3 +55,12 @@ object MergeSortApp {
     }
   }
 }
+
+/*
+Example:
+[4,1,3,2]
+ split -> [4,1] [3,2]
+ split -> [4] [1]  [3] [2]
+ merge -> [1,4]  [2,3]
+ final merge -> [1,2,3,4]
+ */
